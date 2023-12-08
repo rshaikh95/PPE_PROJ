@@ -15,5 +15,5 @@ The base on airtable API will calculate burn and usage rate using formulas funct
 
 The calculated values will then be shown flask app via report that can be downloaded or emailed back to staff for use
 
-
+upload flask app to azure for public access
 
